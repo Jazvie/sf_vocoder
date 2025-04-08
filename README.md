@@ -2,4 +2,7 @@
 
 WIP
 
-TODO: make the thing
+Mostly for exploratory purposes, 
+
+
+TODO: Integrate training pipeline
